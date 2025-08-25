@@ -18,7 +18,7 @@ If you don’t, follow the [installation steps](#-installing-gcc--compiler).
 ---
 
 ## 🚀 How to Run in VS Code
-
+```
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/Deniish/RickRolled-in-C.git
