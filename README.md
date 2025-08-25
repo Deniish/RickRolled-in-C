@@ -12,7 +12,7 @@ but instead of showing the sum, it Rickrolls you in ASCII art. 😅
 1. Clone this repository:
    ```bash
    git clone https://github.com/Deniish/RickRolled-in-C.git
-   cd rickroll-calc
+   cd RickRolled-in-C
 2. code .
 3. gcc rickrolled.c -o rickrolled
 4. ./rickrolled
