@@ -115,7 +115,9 @@ Surprise! Here's your result:
 
 🎵 Never gonna give you up... (in ASCII) 🎵
 ```
-
+```
+![Image](https://github.com/user-attachments/assets/675f29f9-25bf-42cc-8e2e-3fd9bb5d201a)
+```
 ---
 
 💡 Pro tip: Share this with your friends who think they’re just running a “calculator” 😉
